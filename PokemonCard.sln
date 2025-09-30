@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonCard", "PokemonCard\PokemonCard.csproj", "{5439D02D-4105-4FC4-BFA8-C5D6C7D31FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5439D02D-4105-4FC4-BFA8-C5D6C7D31FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5439D02D-4105-4FC4-BFA8-C5D6C7D31FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5439D02D-4105-4FC4-BFA8-C5D6C7D31FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5439D02D-4105-4FC4-BFA8-C5D6C7D31FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67AB0EE-1213-4A62-A833-52F20B18CFBD}
+	EndGlobalSection
+EndGlobal
